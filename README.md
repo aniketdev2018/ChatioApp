@@ -3,7 +3,10 @@
 This is a web app in which multiple people can connect together and can chat in a groups
 
 # steps for run the program 
-step1: git bash your file cahtio and type  node server and hit enter button
-and open chrome and open localhost:3000
+
+Note this file doesn't contains node_modules because nnode file is too large so for running this project you have to do following steps
+step1:open your file ChatioApp-master and inside this there is one file ChatioApp-master and then click right click 
+    press git bash  here then run  npm init   and then  run   node server 
+  and now pen chrome and open localhost:3000
 
 Thanks
